@@ -1,0 +1,35 @@
+body{
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.header{
+    background-color: brown;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+h2{
+    background-color: rgb(88, 88, 240);
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.train-schedule{
+    background-color: antiquewhite;
+    margin: 40px;
+    border: solid;
+    border-color: rgb(88, 88, 240);
+}
+table,th{
+    border-bottom: solid;
+}
+.add-train{
+    background-color: antiquewhite;
+    margin: 40px;
+    border: solid;
+    border-color: rgb(88, 88, 240);
+}
