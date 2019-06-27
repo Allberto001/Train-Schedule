@@ -12,7 +12,7 @@ body{
     padding: 20px;
 }
 h2{
-    background-color: rgb(88, 88, 240);
+    background-color: brown;
     font-size: 20px;
     color: white;
     text-align: center;
@@ -22,7 +22,7 @@ h2{
     background-color: antiquewhite;
     margin: 40px;
     border: solid;
-    border-color: rgb(88, 88, 240);
+    border-color: brown;
 }
 table,th{
     border-bottom: solid;
@@ -31,5 +31,5 @@ table,th{
     background-color: antiquewhite;
     margin: 40px;
     border: solid;
-    border-color: rgb(88, 88, 240);
+    border-color: brown;
 }
